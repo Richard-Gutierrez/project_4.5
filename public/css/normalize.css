@@ -1,0 +1,61 @@
+
+@import url(https://fonts.googleapis.com/css?family=Abril+Fatface);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display+SC);
+@import url(http://fonts.googleapis.com/css?family=Cinzel);
+
+body {
+  background-image: url('https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi4u5ywud_JAhVX7WMKHZC7BdQQjRwIBw&url=http%3A%2F%2Fwww.bigmapblog.com%2F2011%2Fus40-2-los-angeles-california-rail-systems-1906%2F&bvm=bv.110151844,d.cGc&psig=AFQjCNG9rkkbhCBWlm50FXbdQ1yHlUcQ4A&ust=1450323255096664');
+  text-align: center;
+  width: 100%;
+
+  font-family: 'Playfair Display SC', cursive;
+  border-radius: 25px;
+
+  background: linear-gradient(bottom, rgba(224, 242, 241, 1), transparent 100%);
+  background: -webkit-linear-gradient(bottom,  rgba(224, 242, 241, 1), transparent 100%);
+  background: -moz-linear-gradient(bottom, rgba(224, 242, 241, 1), transparent 100%);
+  padding-bottom: 40px;
+
+}
+
+header {
+
+    margin-left: 100px;
+    font-family: 'Cinzel', serif;
+    font-size: 40px;
+}
+
+
+h1 {
+   color: blue;
+}
+
+.map {
+width: 20px;
+height: 20px;
+position: fixed;
+left: 0px;
+top: 0px;
+z-index: -1; }
+}
+
+button.destroy {
+  cursor:     pointer;
+  border:     none;
+  background: none;
+  font-weight: bold;
+  color:       red;
+  transition: 0.25s;
+  opacity:    0.50;
+}
+
+button.destroy:hover {
+  transition: 0.25s;
+  opacity:    1;
+}
+
+.hint {
+  cursor: pointer;
+}
+
+

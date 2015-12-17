@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+
+<html lang="en" ng-app="app">
+
+<head>
+
+  <meta charset="UTF-8">
+  <title>AngularJS</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script>
+
+</head>
+<body ng-controller="MainController as vm">
+
+<header>
+  <br>
+  <div class="jumbotron text-center"><h2>What's The Haps Twitter Home</h2></div>
+  <div class="row">
+    <div class="col-xs-6">
+      <label>City</label>
+      <select class="form-control" ng-model="vm.selectedCity" ng-options="city for city in vm.cities" ng-change="vm.changedCity()">
+        <option value="">Please choose a city...</option>
+      </select>
+    </div>
+
+  <div class="col-xs-6">
+      <label>Search</label>
+      <input type="search" class="form-control" ng-model="vm.search" placeholder="search...">
+  </div>
+  </div>
+    <div class="row">
+      <h1>Where Do You Wanna Go
+        <span class="sm-header-text">
+          <a href="https://twitter.com/ngCloakRich">Rich Gutierrez</a>
+        </span>
+      </h1>
+    </div>
+    <br>
+  </header>
+
+<header>
+
+ <div class="jumbotron text-center"><h2>Hollywood Long Beach Los Angeles Santa Monica Pasadena</h2></div>
+
+</header>
+
+
+  <div id="section1">
+    <img ng-click="vm.clickIcon('hello')" src="https://cdn3.iconfinder.com/data/icons/vector-iso-icon-bundle-3/512/ios7-location-512.png" width="60">
+    <!-- <video src="/assets/images/venice.mp4" loop muted autoplay poster="" class="fullscreenbg__video">
+      <source src="/assets/images/venice.mp4" type="video/mp4">
+    </video> -->
+  </div>
+
+
+  <script src="js/app.module.js"></script>
+  <script src="js/controllers/main.controller.js"></script>
+  <script src="js/services/cities.js"></script>
+
+<footer>
+
+<a class="btn btn-default" href="#" role="button">Link</a>
+    <button class="btn btn-default" type="submit">Button</button>
+<input class="btn btn-default" type="button" value="Input">
+<input class="btn btn-default" type="submit" value="Submit">
+
+</footer>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<h1 id="Long Beach">I'm the Long Beach Biach</h1>
+
+
+</body>
+</html>
+
+
