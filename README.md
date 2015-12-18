@@ -31,7 +31,4 @@ To fallicitate people tweets all in one app (by cities).
 
 
 ##Next Steps:
-
-The goal is to felicitate sending money to other accounts just by their email and your debit card.
-
 Improve on connecting more users to the app
