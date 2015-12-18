@@ -1,6 +1,7 @@
-# project_4.5
+##Project_4.5  Building Your App
 
-Description:
+
+##Description:
 
 Who's doing it?
 
@@ -10,7 +11,7 @@ People who go out want streaming updates on their selected cities.
 
 People who are in touch with real time update news through tweets.
 
-Technical Usage:
+##Technical Usage:
 
 Git Hub
 
@@ -22,13 +23,13 @@ Angular
 
 
 
-Design:
+##Design:
 Design goal was to capture peoples attention into using the site by it being visually appealing.
 
-Reason: To fallicitate people tweets all in one app (by cities).
+##Reason: To fallicitate people tweets all in one app (by cities).
 
 
-Next Steps:
+##Next Steps:
 
 The goal is to felicitate sending money to other accounts just by their email and your debit card.
 
