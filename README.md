@@ -26,7 +26,8 @@ Angular
 ##Design:
 Design goal was to capture peoples attention into using the site by it being visually appealing.
 
-##Reason: To fallicitate people tweets all in one app (by cities).
+##Reason:
+To fallicitate people tweets all in one app (by cities).
 
 
 ##Next Steps:
