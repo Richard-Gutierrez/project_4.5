@@ -4,10 +4,11 @@
 @import url(http://fonts.googleapis.com/css?family=Cinzel);
 
 body {
-  background-image: url('http://www.slate.com/content/dam/slate/blogs/the_vault/2014/07/25/LARailwayMap.jpg.CROP.original-original.jpg');
+  background-image: url('http://www.bigmapblog.com/maps/top40us/BTTGqreaQYJLxqjh.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
+
   text-align: center;
   width: 100%;
 
@@ -21,15 +22,104 @@ body {
 
 header {
 
-    margin-left: 100px;
-    font-family: 'Cinzel', serif;
-    font-size: 40px;
+  margin-left: 100px;
+  font-family: 'Cinzel', serif;
+  font-size: 40px;
 }
 
 
 h1 {
-   color: blue;
+  color: blue;
 }
+
+h2 {
+  color: blue;
+}
+
+.surfers{
+  background-image: url('http://cdn2.business2community.com/wp-content/uploads/2014/01/twitter-lead-gen-card-live-example.png');
+  width: 300px;
+  height: 220px;
+}
+.hollywood {
+  background-image: url('http://hollywoodvinedocumentary.com/wp-content/uploads/2014/08/Hollywood-blvd-1970-background.jpg');
+  width: 800px;
+  height: 500px;
+}
+.wine {
+  background-image: url('https://cdn.shopify.com/s/files/1/0070/7032/files/tweetir-cta.png');
+  width: 300px;
+  height: 220px;
+}
+
+
+
+.island{
+  background-image: url('https://winterstreetdesign.com/wp-content/uploads/2014/12/Screen-Shot-2014-12-10-at-10.02.35-AM.png');
+  width: 300px;
+  height: 220px;
+}
+.los_angeles {
+  background-image: url('http://fadedandblurred.com/wp-content/uploads/2013/11/los-angeles-1940s-02.jpg');
+  width: 800px;
+  height: 500px;
+}
+.coffee {
+  background-image: url('http://www.socialmediaexaminer.com/wp-content/uploads/2013/10/jb-attractive-lead-generation-card.png');
+  width: 300px;
+  height: 220px;
+}
+
+.ezra {
+  background-image: url('http://cdn.poweredbysearch.com/wp-content/uploads/2013/11/Faceboo-Open-Graph.png');
+  width: 300px;
+  height: 220px;
+}
+.santa_monica {
+  background-image: url('http://41.media.tumblr.com/e9132a0cf63f4c0fdbd4be07efbe4eca/tumblr_nyftskUBay1umueh1o1_1280.jpg');
+  width: 800px;
+  height: 500px;
+}
+.dude {
+  background-image: url('https://indiewebcamp.com/images/a/af/Twitter-Card-example1.jpg');
+  width: 260px;
+  height: 320px;
+}
+
+
+.baby {
+  background-image: url('https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0lLPzRJYWqOo3X73BjPTAH8ZDf_cH0x2rmFv8DRuw8pn63xF56A');
+  width: 300px;
+  height: 220px;
+}
+.pasadena {
+  background-image: url('http://aroundtownpasadena.com/wp-content/uploads/2014/04/bridge-and-courthouse.jpg');
+  width: 800px;
+  height: 500px;
+}
+.phone {
+  background-image: url('http://www.youngmarketing.co/wp-content/uploads/2014/08/enfuzed-twitter-card1.png');
+  width: 300px;
+  height: 220px;
+}
+
+.tweet {
+  background-image: url('http://www.salesblend.com/wp-content/uploads/2014/02/Twitter-Lead-Generation-Card-TwitterSmallBiz-402x402.png');
+  width: 300px;
+  height: 220px;
+}
+.long_beach {
+  background-image: url('http://hdontap.com/images/uploads/gallery_images/81/lb5.jpeg');
+  width: 800px;
+  height: 500px;
+}
+.donuts {
+  background-image: url('https://solomozone.files.wordpress.com/2014/12/holiday.png');
+  width: 300px;
+  height: 220px;
+}
+
+
 
 .map {
 width: 20px;
