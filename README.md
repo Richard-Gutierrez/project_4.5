@@ -5,11 +5,7 @@
 
 Who's doing it?
 
-People who want to know what's going on in their preselected cities.
-
-People who go out want streaming updates on their selected cities.
-
-People who are in touch with real time update news through tweets.
+Knowing what's going or "trending" has become a up in coming trend. This application fallicitates trending by preselecting cities using Twitter's API. It uses Twitter's Streaming API to update on their selected cities keeping the users in touch with real time update news through live streaming tweets
 
 ##Technical Usage:
 
