@@ -4,20 +4,19 @@
 @import url(http://fonts.googleapis.com/css?family=Cinzel);
 
 body {
-  background-image: url('http://www.bigmapblog.com/maps/top40us/BTTGqreaQYJLxqjh.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
 
-  text-align: center;
   width: 100%;
-
-  font-family: 'Playfair Display SC', cursive;
+  text-align: center;
   border-radius: 25px;
-
-  background: linear-gradient(bottom, rgba(224, 242, 241, 1), transparent 100%);
   padding-bottom: 40px;
+  background-size: cover;
+  background-image: url('http://www.bigmapblog.com/maps/top40us/BTTGqreaQYJLxqjh.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: 'Playfair Display SC', cursive;
 
+
+  background-attachment: fixed;
 }
 
 header {
